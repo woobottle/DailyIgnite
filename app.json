@@ -13,7 +13,10 @@
       "bundleIdentifier": "com.dkrnfls.dailyignite",
       "buildNumber": "1",
       "infoPlist": {
-        "ITSAppUsesNonExemptEncryption": false
+        "ITSAppUsesNonExemptEncryption": false,
+        "NSCameraUsageDescription": "This app uses the camera to capture photos for sharing inspirational moments and creating visual content to enhance your daily motivation experience.",
+        "NSPhotoLibraryUsageDescription": "This app needs access to your photo library to let you select and share inspirational images as part of your daily motivation content.",
+        "NSPhotoLibraryAddUsageDescription": "This app needs permission to save inspirational quotes and images to your photo library for easy access and sharing."
       }
     },
     "android": {
